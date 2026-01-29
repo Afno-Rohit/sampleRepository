@@ -1,0 +1,48 @@
+# words={"madad":"help",
+#        "bhagwan":"god",
+#        "xama":"forgive"
+#        }
+# word=input("Enter the word you want meaning of :")
+# print(words[word])
+
+# s=set()
+# n=input("Enter the number :")
+# s.add(int(n))
+# n=input("Enter the number :")
+# s.add(int(n))
+# n=input("Enter the number :")
+# s.add(int(n))
+# n=input("Enter the number :")
+# s.add(int(n))
+# n=input("Enter the number :")
+# s.add(int(n))
+# n=input("Enter the number :")
+# s.add(int(n))
+# n=input("Enter the number :")
+# s.add(int(n))
+# n=input("Enter the number :")
+# s.add(int(n))
+# print(s)
+
+# s=set()
+# s.add(20)
+# s.add(20.0)
+# s.add('20')
+# print(s)
+# print(len(s))
+
+d={}
+name=input("Enter friend's name :")
+lang=input("Enter language name :")
+d.update({name:lang})
+name=input("Enter friend's name :")
+lang=input("Enter language name :")
+d.update({name:lang})
+name=input("Enter friend's name :")
+lang=input("Enter language name :")
+d.update({name:lang})
+name=input("Enter friend's name :")
+lang=input("Enter language name :")
+d.update({name:lang})
+print(d)
+print(type(d))

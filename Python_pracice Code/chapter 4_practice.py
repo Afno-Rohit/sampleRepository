@@ -1,0 +1,46 @@
+# fruits=[]
+# f1=input("Enter fruit name :")
+# fruits.append(f1)
+# f1=input("Enter fruit name :")
+# fruits.append(f1)
+# f2=input("Enter fruit name :")
+# fruits.append(f2)
+# f3=input("Enter fruit name :")
+# fruits.append(f3)
+# f4=input("Enter fruit name :")
+# fruits.append(f4)
+# f5=input("Enter fruit name :")
+# fruits.append(f5)
+# f6=input("Enter fruit name :")
+# fruits.append(f6)
+# print(fruits)
+
+# Marks=[]
+# f1=input("Enter marks here :")
+# Marks.append(f1)
+# f1=input("Enter marks here :")
+# Marks.append(f1)
+# f2=input("Enter marks here :")
+# Marks.append(f2)
+# f3=input("Enter marks here :")
+# Marks.append(f3)
+# f4=input("Enter marks here :")
+# Marks.append(f4)
+# f5=input("Enter marks here :")
+# Marks.append(f5)
+# f6=input("Enter marks here :")
+# Marks.append(f6)
+# Marks.sort()
+# print(Marks)
+
+# a=(1,2,3,4)
+# print(a[3])
+# a[3]=6
+# print(a[3])
+
+
+# a=(2,3,4,8)
+# print(sum(a))
+
+a=(7,0,8,0,0,9)
+print(a.count(0))
